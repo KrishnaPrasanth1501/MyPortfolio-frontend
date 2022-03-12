@@ -27,9 +27,13 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "src/assets/css/main.3f6952e4.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/Js/main.70a66962.js",
+              "src/assets/Js/main.70a66962.map"
+            ]
           },
           "configurations": {
             "production": {
